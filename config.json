@@ -1,5 +1,6 @@
 {
     "token": "YOUR_TOKEN_HERE",
+    "bot-name": "Bot",
     "prefix": "!",
     "activity": "Example"
 }
